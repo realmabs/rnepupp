@@ -1,0 +1,15 @@
+{
+  "name": "kallet-base",
+  "version": "0.1.0",
+  "author": "kallet",
+  "summary": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "source": "git://github.com/saz/puppet-ssh.git",
+  "project_page": "",
+  "issues_url": "https://github.com/saz/puppet-ssh/issues",
+  "description": "homemade",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
